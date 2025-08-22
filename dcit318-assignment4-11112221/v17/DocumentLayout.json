@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshots\\AvailableDoctors.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screenshots\\AvailableDoctors.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\ViewAllMedicine.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screenshot\\ViewAllMedicine.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\SearchMedicine.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screenshot\\SearchMedicine.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\ScreenshotDB.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screenshot\\ScreenshotDB.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\AddMedicine2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screenshot\\AddMedicine2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\AddMedicine.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screenshot\\AddMedicine.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\ManageAppointmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManageAppointmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\AppointmentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppointmentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvailableDoctors.png - PNG [1366x768, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshots\\AvailableDoctors.png",
+              "RelativeDocumentMoniker": "Screenshots\\AvailableDoctors.png",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshots\\AvailableDoctors.png - PNG [1366x768, 32 bit, PNG]",
+              "RelativeToolTip": "Screenshots\\AvailableDoctors.png - PNG [1366x768, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-18T18:24:55.437Z",
+              "EditorCaption": " - PNG [1366x768, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewAllMedicine.png - PNG [841x596, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\ViewAllMedicine.png",
+              "RelativeDocumentMoniker": "Screenshot\\ViewAllMedicine.png",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\ViewAllMedicine.png - PNG [841x596, 32 bit, PNG]",
+              "RelativeToolTip": "Screenshot\\ViewAllMedicine.png - PNG [841x596, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-18T18:24:44.859Z",
+              "EditorCaption": " - PNG [841x596, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchMedicine.png - PNG [844x593, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\SearchMedicine.png",
+              "RelativeDocumentMoniker": "Screenshot\\SearchMedicine.png",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\SearchMedicine.png - PNG [844x593, 32 bit, PNG]",
+              "RelativeToolTip": "Screenshot\\SearchMedicine.png - PNG [844x593, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-18T18:24:42.659Z",
+              "EditorCaption": " - PNG [844x593, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenshotDB.png - PNG [1366x768, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\ScreenshotDB.png",
+              "RelativeDocumentMoniker": "Screenshot\\ScreenshotDB.png",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\ScreenshotDB.png - PNG [1366x768, 32 bit, PNG]",
+              "RelativeToolTip": "Screenshot\\ScreenshotDB.png - PNG [1366x768, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-18T18:24:38.945Z",
+              "EditorCaption": " - PNG [1366x768, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMedicine2.png - PNG [840x596, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\AddMedicine2.png",
+              "RelativeDocumentMoniker": "Screenshot\\AddMedicine2.png",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\AddMedicine2.png - PNG [840x596, 32 bit, PNG]",
+              "RelativeToolTip": "Screenshot\\AddMedicine2.png - PNG [840x596, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-18T18:24:36.728Z",
+              "EditorCaption": " - PNG [840x596, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddMedicine.png - PNG [835x590, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\AddMedicine.png",
+              "RelativeDocumentMoniker": "Screenshot\\AddMedicine.png",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\Screenshot\\AddMedicine.png - PNG [835x590, 32 bit, PNG]",
+              "RelativeToolTip": "Screenshot\\AddMedicine.png - PNG [835x590, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-08-18T18:24:26.042Z",
+              "EditorCaption": " - PNG [835x590, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageAppointmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\ManageAppointmentsForm.cs",
+              "RelativeDocumentMoniker": "ManageAppointmentsForm.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\ManageAppointmentsForm.cs",
+              "RelativeToolTip": "ManageAppointmentsForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:22:34.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:22:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\AppointmentForm.cs",
+              "RelativeDocumentMoniker": "AppointmentForm.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\dcit318-assignment4-11253585\\AppointmentForm.cs",
+              "RelativeToolTip": "AppointmentForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:18:04.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
